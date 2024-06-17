@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: 760eae537ea2f684fa4411eb130ed970
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight_Spear_Special_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 499
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808f79997b743754680a4b5c12865355
+      internalID: -242865168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 499
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.605501, y: 0.512545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd480378264ac4c84fccf5e8c524b7
+      internalID: -573156377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 499
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.67768633, y: 0.5031365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeece43e4f51a8468b28c99e3852b49
+      internalID: 2064111790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 499
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.67768633, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401cb49a6e499714b8917afea2719cf6
+      internalID: 1351110407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 349
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.68571675, y: 0.5167824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da70366b09edc074298b771a32659924
+      internalID: -1870325112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 349
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6931453, y: 0.49580327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f15fd8c85eee0341bbfb1d0cc4c420b
+      internalID: 1077553905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 349
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.67457354, y: 0.49999943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52043495426ad14fb4cab5fbeef08f4
+      internalID: 1778194502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 349
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6820018, y: 0.49160767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eb435d9afc2b4419542220d80f1be8
+      internalID: 878512219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 199
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6974212, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ce9b3adf33374499abd9c2005bdd9
+      internalID: 255618393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 199
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.69395775, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ab03c37f30f014fb6cc342e15bb27b
+      internalID: 1790741613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 199
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.69395775, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08656c7cc440e854f8fef95e1d41ad1e
+      internalID: -1242215706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 199
+        width: 61
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5484899, y: 0.50406325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2175ba91ccb39f449f4c9d3d68eb338
+      internalID: -1159644284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 49
+        width: 61
+        height: 52
+      alignment: 9
+      pivot: {x: 0.43142712, y: 0.5603309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc12ed7e65b0048850c1196c049932
+      internalID: -62028884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Special_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 49
+        width: 25
+        height: 52
+      alignment: 9
+      pivot: {x: 0.63594604, y: 0.54022056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff38162cd236e984f9d3163f4813cd66
+      internalID: 41332865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knight_Spear_Special_0: -242865168
+      Knight_Spear_Special_1: -573156377
+      Knight_Spear_Special_10: -1242215706
+      Knight_Spear_Special_11: -1159644284
+      Knight_Spear_Special_12: -62028884
+      Knight_Spear_Special_13: 41332865
+      Knight_Spear_Special_2: 2064111790
+      Knight_Spear_Special_3: 1351110407
+      Knight_Spear_Special_4: -1870325112
+      Knight_Spear_Special_5: 1077553905
+      Knight_Spear_Special_6: 1778194502
+      Knight_Spear_Special_7: 878512219
+      Knight_Spear_Special_8: 255618393
+      Knight_Spear_Special_9: 1790741613
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

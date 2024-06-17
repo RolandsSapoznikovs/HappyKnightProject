@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 15a577da539fd3d42b2fb8b4a7102430
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 524
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeadc842cbb64042bb620842a0dbf66
+      internalID: -2047955467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 524
+        width: 66
+        height: 54
+      alignment: 9
+      pivot: {x: 0.578774, y: 0.48672032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc865db627eee74896c996f466db583
+      internalID: 1641779998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 524
+        width: 69
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5649564, y: 0.49336073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54da784c61e73e54ea28d36ea28fe0e6
+      internalID: 1140374251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 424
+        width: 70
+        height: 54
+      alignment: 9
+      pivot: {x: 0.369383, y: 0.5033202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979f0fb9caa1fcd4fb6dc9e43633c87a
+      internalID: 535786657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 424
+        width: 70
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3591387, y: 0.5066404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0e5952caa41704697d42b2ddd3fd36
+      internalID: -2000446327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 424
+        width: 70
+        height: 54
+      alignment: 9
+      pivot: {x: 0.3745056, y: 0.50000054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83637f1642b7e2e4192d22342c566c45
+      internalID: -1943983365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 324
+        width: 69
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5415719, y: 0.49336016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfadbb87329bb5649b83da396753e485
+      internalID: -198912263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 324
+        width: 66
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5923559, y: 0.5066404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08502d20b8caee4ea3df028ea216528
+      internalID: 1962800087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 324
+        width: 68
+        height: 54
+      alignment: 9
+      pivot: {x: 0.41036135, y: 0.50000054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4454d0efc36bc3d469045d313a15da0f
+      internalID: -2078888315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 224
+        width: 68
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4105955, y: 0.5057732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b698c18f3d2fc44784d0bb2436a09dd
+      internalID: 1096684361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 224
+        width: 68
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4128878, y: 0.5115467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b90ffded8a3b044e827281830ae9078
+      internalID: -1855732644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 224
+        width: 66
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5708563, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9ae25b0b445446876ae2eb5f6ec46
+      internalID: 1665761203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 124
+        width: 69
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5521353, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a887dff56b04cb4b96468016f06a2ad
+      internalID: -185308968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 124
+        width: 62
+        height: 54
+      alignment: 9
+      pivot: {x: 0.54696953, y: 0.50634456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c2ee6538c21f443a1cb55d98c99ede
+      internalID: -75880634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_14
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 124
+        width: 63
+        height: 54
+      alignment: 9
+      pivot: {x: 0.40211317, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3513f0aafc74348a7233e0dd1ffa48
+      internalID: -1733413215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 24
+        width: 63
+        height: 54
+      alignment: 9
+      pivot: {x: 0.39989, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa764bd6173e549961df6d6987f955
+      internalID: -1692414805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Spear_Attack3_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 63
+        height: 54
+      alignment: 9
+      pivot: {x: 0.39989, y: 0.4888767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143f8e7dfb9ddd440b94e3743b1c2cbc
+      internalID: 566855041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knight_Spear_Attack3_0: -2047955467
+      Knight_Spear_Attack3_1: 1641779998
+      Knight_Spear_Attack3_10: -1855732644
+      Knight_Spear_Attack3_11: 1665761203
+      Knight_Spear_Attack3_12: -185308968
+      Knight_Spear_Attack3_13: -75880634
+      Knight_Spear_Attack3_14: -1733413215
+      Knight_Spear_Attack3_15: -1692414805
+      Knight_Spear_Attack3_16: 566855041
+      Knight_Spear_Attack3_2: 1140374251
+      Knight_Spear_Attack3_3: 535786657
+      Knight_Spear_Attack3_4: -2000446327
+      Knight_Spear_Attack3_5: -1943983365
+      Knight_Spear_Attack3_6: -198912263
+      Knight_Spear_Attack3_7: 1962800087
+      Knight_Spear_Attack3_8: -2078888315
+      Knight_Spear_Attack3_9: 1096684361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

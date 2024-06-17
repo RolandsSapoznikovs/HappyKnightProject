@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: bcc0969419f878349adf4731f2bd647c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tree_Boss_Death_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 903
+        width: 176
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa0021cec35d8c46a1fdfac890ebcd2
+      internalID: 1145379466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 903
+        width: 176
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c526e200e79ad4c489d64527cf9fece4
+      internalID: -94529162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 903
+        width: 176
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21909a0248e04b498f7f1629d5a77ad
+      internalID: 1602883084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_3
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 903
+        width: 176
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7176096057a1ac4cabdc3d65e178ca5
+      internalID: -964600561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 603
+        width: 176
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cabee082ad4854f8c38c212fe83cdb
+      internalID: -544291540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 603
+        width: 176
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cf6aa67531a6c4f81524a679f25037
+      internalID: -1108953630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_6
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 603
+        width: 176
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51766896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de724dc77a9dcfc4f82d4bed24f83c93
+      internalID: 1518724039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 603
+        width: 176
+        height: 275
+      alignment: 9
+      pivot: {x: 0.50705165, y: 0.5394877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc3cfcba9faecd4aba9a27fc4ba32b9
+      internalID: 483217043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 302
+        width: 176
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5056499, y: 0.6196554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7654b040610b0d946a6d1662f72856c5
+      internalID: -817400100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 303
+        width: 176
+        height: 241
+      alignment: 9
+      pivot: {x: 0.50282514, y: 0.6196554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a449b9c4fc4761b49b42d5b2e3922f34
+      internalID: 2136918126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 303
+        width: 176
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5169497, y: 0.7841077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834e56872aeb5eb43b263ecd0d7ed4f0
+      internalID: 413051101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_11
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 303
+        width: 176
+        height: 186
+      alignment: 9
+      pivot: {x: 0.51129985, y: 0.786017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e261f702dfcc194dbf0bc816712bf06
+      internalID: 1436865351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3
+        width: 176
+        height: 186
+      alignment: 9
+      pivot: {x: 0.51044065, y: 0.78814745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b818ca52fe58c704db944782ff81bf38
+      internalID: 494149830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3
+        width: 176
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5087003, y: 0.7766216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c302e561056b8b44186c9a421786ba4a
+      internalID: -564441928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Death_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 3
+        width: 176
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5052199, y: 0.78650093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46de8356c96adbf4ab6fe74a12b8778d
+      internalID: 1611127307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tree_Boss_Death_0: 1145379466
+      Tree_Boss_Death_1: -94529162
+      Tree_Boss_Death_10: 413051101
+      Tree_Boss_Death_11: 1436865351
+      Tree_Boss_Death_12: 494149830
+      Tree_Boss_Death_13: -564441928
+      Tree_Boss_Death_14: 1611127307
+      Tree_Boss_Death_2: 1602883084
+      Tree_Boss_Death_3: -964600561
+      Tree_Boss_Death_4: -544291540
+      Tree_Boss_Death_5: -1108953630
+      Tree_Boss_Death_6: 1518724039
+      Tree_Boss_Death_7: 483217043
+      Tree_Boss_Death_8: -817400100
+      Tree_Boss_Death_9: 2136918126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

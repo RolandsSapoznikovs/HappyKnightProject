@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Obstacle
+  - bossArena
+  - BossArena
+  - BossArenaExit
+  - Spikes
+  - Fountain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Background
+  - Enemy
+  - Projectile
+  - Fountain
+  - Spikes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 997479141
+    locked: 0
+  - name: Ground
+    uniqueID: 3814874321
+    locked: 0
+  - name: Fountain
+    uniqueID: 2235736749
+    locked: 0
+  - name: Enemy
+    uniqueID: 1755184885
+    locked: 0
+  - name: Player
+    uniqueID: 153512569
+    locked: 0
+  - name: Spikes
+    uniqueID: 2457587999
+    locked: 0
+  - name: Projectile
+    uniqueID: 130189705
+    locked: 0

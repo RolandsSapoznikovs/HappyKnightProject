@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: a9884fb50ebd9684491db0dc7efbfc0d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1203
+        width: 176
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579084a4dcbbb8f499a7f36f244e27fd
+      internalID: -1134545197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1203
+        width: 180
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbece588da992c743bf4ad002cc6191b
+      internalID: 1988505028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1203
+        width: 187
+        height: 296
+      alignment: 9
+      pivot: {x: 0.47539762, y: 0.50020456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7e833c6682994b8e1846545507a36
+      internalID: -1443976412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1203
+        width: 184
+        height: 296
+      alignment: 9
+      pivot: {x: 0.4762122, y: 0.50086933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8066cfb917e85e4499e00f6e2a54245e
+      internalID: -1026668786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 903
+        width: 177
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02155b0279c965f4bb6ba014ec51d49e
+      internalID: 1895775486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 903
+        width: 172
+        height: 296
+      alignment: 9
+      pivot: {x: 0.52181137, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f477af8d5d82f7346a3ccd8915585684
+      internalID: -484463415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 903
+        width: 167
+        height: 296
+      alignment: 9
+      pivot: {x: 0.52983487, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a60e4b1419e4d940ba9dde17dad64b0
+      internalID: -1984652211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 903
+        width: 167
+        height: 296
+      alignment: 9
+      pivot: {x: 0.52338415, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402e69b40cf13d547b65afc2a73d9301
+      internalID: -108874419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 603
+        width: 167
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5258018, y: 0.49939337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263591503e2cecb4196ea416094b6a99
+      internalID: -1909759276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 603
+        width: 172
+        height: 296
+      alignment: 9
+      pivot: {x: 0.52244765, y: 0.4994641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940dc9ee177308540af994d385efcd79
+      internalID: -19374436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 603
+        width: 177
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ef846a6d646424185c4ccfcbdc526c
+      internalID: 1120750263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 603
+        width: 167
+        height: 296
+      alignment: 9
+      pivot: {x: 0.51593715, y: 0.5003462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158ee89d5d4b1d74ea49140942432296
+      internalID: -1822993046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 303
+        width: 167
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5271674, y: 0.49958017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8b16a0a80849246b00613b78ccae38
+      internalID: -2043221809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 303
+        width: 167
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5281993, y: 0.4999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9ab81a12127da40ac66a83b4830958
+      internalID: 953888732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 303
+        width: 167
+        height: 296
+      alignment: 9
+      pivot: {x: 0.52945733, y: 0.4999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224b1c978bf4510459d85b27b120a482
+      internalID: 415377112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 303
+        width: 167
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ced08ad56d8bc4abee1711e11ac7b0
+      internalID: -1823504942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_Boss_Attack2 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3
+        width: 167
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f8e7135ab4701439f1cae7c3f1e675
+      internalID: -802811939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tree_Boss_Attack2 (1)_0: -1134545197
+      Tree_Boss_Attack2 (1)_1: 1988505028
+      Tree_Boss_Attack2 (1)_10: 1120750263
+      Tree_Boss_Attack2 (1)_11: -1822993046
+      Tree_Boss_Attack2 (1)_12: -2043221809
+      Tree_Boss_Attack2 (1)_13: 953888732
+      Tree_Boss_Attack2 (1)_14: 415377112
+      Tree_Boss_Attack2 (1)_15: -1823504942
+      Tree_Boss_Attack2 (1)_16: -802811939
+      Tree_Boss_Attack2 (1)_2: -1443976412
+      Tree_Boss_Attack2 (1)_3: -1026668786
+      Tree_Boss_Attack2 (1)_4: 1895775486
+      Tree_Boss_Attack2 (1)_5: -484463415
+      Tree_Boss_Attack2 (1)_6: -1984652211
+      Tree_Boss_Attack2 (1)_7: -108874419
+      Tree_Boss_Attack2 (1)_8: -1909759276
+      Tree_Boss_Attack2 (1)_9: -19374436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
